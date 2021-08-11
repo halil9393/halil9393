@@ -2,7 +2,11 @@
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Jetpack libraries
 - 💞️ I’m looking to collaborate on Android Developer
-- 📫 How to reach me halilibrahimk.93@gmail.com
+- 📫 How to reach me halilibrahimk.93@gmail.com and Linkedin; www.linkedin.com/in/halilibrahimk06
+- 
+- My PlayStore apps;
+-   -https://play.google.com/store/apps/details?id=com.hikgame.RubikBoxApplication
+-   -https://play.google.com/store/apps/details?id=com.hikgame.NamazVakitleriApplication
 
 <!---
 halil9393/halil9393 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
